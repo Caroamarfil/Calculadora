@@ -8,7 +8,7 @@
     "test:restar": "node test/testRestar.js",
     "test:dividir": "node test/testDividir.js",
     "test:multiplicar": "node test/testMultiplicar.js",
-    "start": ""
+    "start": "node calculadora.js"
   },
   "author": "",
   "license": "ISC",
